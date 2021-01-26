@@ -1,7 +1,5 @@
 
-**Execute the below command!**
-```
-Launch an EC2 instance and attach s3 full access role.
+Clone the repo
 ```
 **Execute the below command!**
 ```
