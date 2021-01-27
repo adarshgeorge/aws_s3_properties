@@ -7,7 +7,7 @@
 **Output**
 ```
 
-``$ ./script_all.sh 
+$ ./script_all.sh 
 ---------------------------- 
 Bucket Name: cf-templates-cynkrgo8fhrp-ap-south-1 
 Bucket Region: ap-south-1
