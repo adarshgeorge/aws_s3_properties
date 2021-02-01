@@ -1,7 +1,12 @@
 #!/bin/bash
 
+#vars
+buckets=`aws s3 ls | cut -c21-250`
+
+#functions
+
 script_aws () {	
-        for i in `aws s3 ls | cut -c21-250`  
+        for i in $buckets  
 	do ./script.sh $i 
        	done
 }
